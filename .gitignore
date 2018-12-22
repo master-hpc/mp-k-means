@@ -1,0 +1,6 @@
+out/*
+!out/.gitkeep
+
+data/*
+!data/input_small.bmp
+!data/input_large.bmp
