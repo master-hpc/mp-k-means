@@ -29,7 +29,7 @@ Everything else can be seen as a boiler plate code.
 ## TODOs
 
  - [ ] upload the homework assignement PDF
- - [ ] upload ./data/input_large.bmp
+ - [ ] upload `./data/input_large.bmp`
  - [ ] translate `REAMDE.md` to french
 
 ## Attribution
