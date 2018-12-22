@@ -4,7 +4,7 @@ K-means image segmentation with CUDA (a "to be optimized" single threaded kernel
 ## Homework assignment
 
 Students are asked to parallelize a naive implementation of the `K-Means` image segmentation algorithm.
-A single threaded kernel is provided in `k_means_cuda.cu` and corresponds to the code that needs to be optimized.
+A single threaded kernel is provided in [`k_means_cuda.cu`](./k_means_cuda.cu) and corresponds to the code that needs to be optimized.
 Everything else can be seen as a boiler plate code.
 
 ## Requirements
