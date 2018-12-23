@@ -28,7 +28,7 @@ Everything else can be seen as a boiler plate code.
 
 ## TODOs
 
- - [ ] upload the homework assignement PDF
+ - [ ] upload the homework assignement's PDF
  - [ ] upload `./data/input_large.bmp`
  - [ ] translate `REAMDE.md` to french
 
