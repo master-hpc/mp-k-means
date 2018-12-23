@@ -219,7 +219,7 @@ namespace app {
                          powf(color_1.b - color_2.b, 2));
         }
 
-        // Comparer si deux couleurs ont sont les mêmes.
+        // Comparer si deux couleurs sont les mêmes.
         __device__ bool same_colors(const Color &color_1, const Color &color_2) {
             return color_1.r == color_2.r &&
                    color_1.g == color_2.g &&
