@@ -1,5 +1,5 @@
 # "K-Means"
-K-means image segmentation with CUDA (a "to be optimized" single threaded kernel implementation).
+> K-means image segmentation with CUDA (a "to be optimized" single threaded kernel implementation).
 
 ## Homework assignment
 
